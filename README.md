@@ -21,4 +21,4 @@ Analyze Diwali sales data to improve customer experience and sales
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project analyzes Diwali sales data to uncover customer purchasing behavior and key business trends. A complete analytics workflow was developed using Python for data cleaning, exploratory analysis, and visualization to identify high-performing product categories, customer segments, and regional sales patterns, enabling data-driven marketing and inventory strategies.
+- This project analyzes Diwali sales data to uncover customer purchasing behavior and key business trends. A complete analytics workflow was developed using Python for data cleaning, exploratory analysis, and visualization to identify high-performing product categories, customer segments, and regional sales patterns, enabling data-driven marketing and inventory strategies.
