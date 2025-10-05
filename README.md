@@ -6,7 +6,7 @@ Analyze Diwali sales data to improve customer experience and sales
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
-- <a href="#business-problem">Business Problem</a>
+- <a href="#project-learning">project-learning</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
