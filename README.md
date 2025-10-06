@@ -97,12 +97,12 @@ Diwali_Sales_Analysis/
 
 - **Analyzed customer demographics** such as gender, age group, state, and occupation to identify key buyer segments.
 
-- Examined purchasing behavior by comparing total sales across different product categories and regions.
+- **Examined purchasing behavior** by comparing total sales across different product categories and regions.
 
 - Identified top-performing categories and customer segments contributing most to revenue.
 
-- Visualized trends using charts like bar plots, histograms, and pie charts created with Matplotlib and Seaborn.
+- **Visualized trends** using charts like bar plots, histograms, and pie charts created with Matplotlib and Seaborn.
 
-- Observed correlations between demographic factors and purchase amount to understand sales drivers.
+- **Observed correlations** between demographic factors and purchase amount to understand sales drivers.
 
-- Derived insights such as higher spending by married women in the 26–35 age group and top sales in metropolitan areas.
+- **Derived insights** such as higher spending by married women in the 26–35 age group and top sales in metropolitan areas.
