@@ -151,5 +151,5 @@ jupyter notebook
 
 - If you’re using Google Colab, add:
 
-   - `You can also upload the notebook to Google Colab and run it directly in the browser.`
+   - `You can also upload the notebook to 🔗 [Google Colab](https://colab.research.google.com/) and run it directly in the browser.`
 
