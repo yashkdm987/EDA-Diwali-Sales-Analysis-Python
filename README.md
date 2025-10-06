@@ -44,3 +44,19 @@ This project analyzes Diwali sales data to uncover customer purchasing behavior 
 - Columns: Customer details, gender, age group, product category, amount spent, city tier, etc.
 
 - Perfect for: EDA, customer segmentation, and visualization
+
+---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- Python – for data cleaning, transformation, and analysis
+
+- Pandas – for data manipulation and preprocessing
+
+- NumPy – for numerical operations
+
+- Matplotlib & Seaborn – for data visualization and exploratory data analysis (EDA)
+
+- Jupyter Notebook – for running and documenting the analysis
+
+- Microsoft Excel – for quick data review and validation (optional)
