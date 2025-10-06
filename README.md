@@ -80,3 +80,14 @@ Diwali_Sales_Analysis/
 │
 └── requirements.txt                       # List of Python dependencies
 ```
+
+---
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
+- Loaded the Diwali Sales dataset using Pandas for inspection and preprocessing.
+
+- Handled missing values by removing null entries and correcting inconsistent data
+
+- Filtered out invalid entries, such as customers with zero or negative purchase amounts.
+
+- Created new columns for deeper insights (e.g., total purchase by gender, age group, or state).
