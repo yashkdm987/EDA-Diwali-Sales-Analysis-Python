@@ -60,3 +60,23 @@ This project analyzes Diwali sales data to uncover customer purchasing behavior 
 - Jupyter Notebook – for running and documenting the analysis
 
 - Microsoft Excel – for quick data review and validation (optional)
+
+---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+Diwali_Sales_Analysis/
+│
+├── data/
+│   └── Diwali_Sales_Data.csv              # Dataset used for analysis
+│
+├── notebooks/
+│   └── Diwali_Sales_Analysis.ipynb        # Jupyter Notebook with full analysis
+│
+├── visuals/
+│   └── sales_trends.png                   # Graphs and visualizations
+│
+├── README.md                              # Project documentation
+│
+└── requirements.txt                       # List of Python dependencies
+```
