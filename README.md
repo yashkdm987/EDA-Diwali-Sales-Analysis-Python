@@ -33,3 +33,14 @@ This project analyzes Diwali sales data to uncover customer purchasing behavior 
 - Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
 
 - Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
+
+---
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- Format: CSV
+
+- Rows: ~11,000
+
+- Columns: Customer details, gender, age group, product category, amount spent, city tier, etc.
+
+- Perfect for: EDA, customer segmentation, and visualization
