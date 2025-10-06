@@ -110,20 +110,20 @@ Diwali_Sales_Analysis/
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-**Research Questions:*
-- Which gender contributes the most to overall sales?
+**Research Questions:**
+- Which **gender** contributes the most to overall sales?
 
-- What are the top-performing states in terms of total sales?
+- What are the **top-performing states** in terms of total sales?
 
-- Which occupation types spend the most during Diwali?
+- Which **occupation types** spend the most during Diwali?
 
-- Which product categories generate the highest revenue?
+- Which **product categories** generate the highest revenue?
 
 **Key Findings:**
-- Female customers made more purchases and contributed more to total sales than males.
+- **Female customers** made more purchases and contributed more to total sales than males.
 
-- The 26–35 age group showed the highest spending behavior.
+- The **26–35 age group** showed the highest spending behavior.
 
-- IT and Healthcare professionals were among the top spenders.
+- **IT and Healthcare** professionals were among the top spenders.
 
-- Top states such as Maharashtra, Uttar Pradesh, and Karnataka had the highest sales volume.
+- **Top states** such as Maharashtra, Uttar Pradesh, and Karnataka had the highest sales volume.
