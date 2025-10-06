@@ -13,7 +13,6 @@ Analyze Diwali sales data to improve customer experience and sales
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
@@ -127,3 +126,31 @@ Diwali_Sales_Analysis/
 - **IT and Healthcare** professionals were among the top spenders.
 
 - **Top states** such as Maharashtra, Uttar Pradesh, and Karnataka had the highest sales volume.
+
+---
+<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/Diwali_Sales_Analysis.git
+```
+2. Install the required dependencies
+Make sure you have Python installed, then run:
+```bash
+pip install -r requirements.txt
+```
+3. Open the Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+**Optional additions (if applicable):**
+
+- If you use Power BI or Tableau, add a line like:
+
+   - `Open the Diwali_Sales_Dashboard.pbix file in Power BI to explore the interactive dashboard.
+
+- If you’re using Google Colab, add:
+
+   -`You can also upload the notebook to Google Colab and run it directly in the browser.
+
