@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis-Python
+# EDA-Diwali-Sales-Analysis-Python
 
 Analyze Diwali sales data to improve customer experience and sales
 
