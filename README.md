@@ -144,13 +144,13 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-**Optional additions (if applicable):**
+**4. Optional additions (if applicable):**
 
 - If you use Power BI or Tableau, add a line like:
 
-   - `Open the Diwali_Sales_Dashboard.pbix file in Power BI to explore the interactive dashboard.
+-`Open the Diwali_Sales_Dashboard.pbix file in Power BI to explore the interactive dashboard.`
 
 - If you’re using Google Colab, add:
 
-   -`You can also upload the notebook to Google Colab and run it directly in the browser.
+-`You can also upload the notebook to Google Colab and run it directly in the browser.`
 
