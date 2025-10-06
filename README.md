@@ -95,7 +95,7 @@ Diwali_Sales_Analysis/
 ---
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
-- Analyzed customer demographics such as gender, age group, state, and occupation to identify key buyer segments.
+- **Analyzed customer demographics** such as gender, age group, state, and occupation to identify key buyer segments.
 
 - Examined purchasing behavior by comparing total sales across different product categories and regions.
 
