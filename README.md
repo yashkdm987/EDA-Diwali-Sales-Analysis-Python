@@ -153,3 +153,15 @@ jupyter notebook
 
    - `You can also upload the notebook to Google Colaband run it directly in the browser.`
 
+---
+<h2><a class="anchor" id="conclusion"></a>conclusion</h2>
+
+**- Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category**
+
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Yash Kadam**  
+Data Analyst  
+📧 Email: yashkadam3000@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-kadam-ba2688211/)
