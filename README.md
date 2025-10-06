@@ -14,7 +14,7 @@ Analyze Diwali sales data to improve customer experience and sales
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#conclusion">conclusion</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
